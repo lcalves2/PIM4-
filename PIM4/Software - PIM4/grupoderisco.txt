@@ -1,0 +1,6 @@
+Arquivo gerado pelo usuario: Lucas Correa Alves -- CPF: 47242074851 -- Data: 28/11/2022
+CEP, Idade
+77060321, 80
+57602270, 32
+88521515, 49
+85745971, 76
